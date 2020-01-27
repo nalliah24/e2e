@@ -1,5 +1,10 @@
 {
   "src_folders" : ["tests"],
+  "page_objects_path": [
+    "page-objects",
+    "page-objects/duckduckgo",
+    "page-objects/expense"
+  ],
 
   "webdriver" : {
     "start_process": true,
